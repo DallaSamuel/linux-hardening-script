@@ -98,7 +98,7 @@ Should work on any Debian-based Linux system.
 
 This script is Phase 1 of the CyberJKD cybersecurity learning roadmap — building strong foundations before advancing to offensive security and cloud engineering.
 
-Check out the full roadmap: [github.com/DallaSamuel](https://github.com/DallaSamuel/CyberJKD-Roadmap)
+Check out the full roadmap: [github.com/DallaSamuel](https://dallasamuel.github.io/CyberJKD-Roadmap/)
 
 ---
 
