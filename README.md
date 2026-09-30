@@ -1,7 +1,7 @@
 # CyberJKD Linux Hardening Script
 
 **Author:** Dalla  Samuel (CyberJKD)  
-**Phase:** Roadmap Phase 1 — Systems Foundation  
+**Phase:** Roadmap Phase 1 - Systems Foundation  
 **Language:** Bash  
 
 ---
@@ -10,7 +10,7 @@
 
 An automated Linux hardening script that audits, hardens, and verifies the security state of a Debian-based Linux system. Built as part of the CyberJKD cybersecurity learning roadmap.
 
-The script follows a simple principle — **audit first, harden second, verify third.**
+The script follows a simple principle - **audit first, harden second, verify third.**
 
 ---
 
@@ -96,7 +96,7 @@ Should work on any Debian-based Linux system.
 
 ## Part of the CyberJKD Roadmap
 
-This script is Phase 1 of the CyberJKD cybersecurity learning roadmap — building strong foundations before advancing to offensive security and cloud engineering.
+This script is Phase 1 of the CyberJKD cybersecurity learning roadmap - building strong foundations before advancing to offensive security and cloud engineering.
 
 Check out the full roadmap: [github.com/DallaSamuel](https://dallasamuel.github.io/CyberJKD-Roadmap/)
 
